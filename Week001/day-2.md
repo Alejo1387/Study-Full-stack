@@ -81,3 +81,8 @@ El sistema operativo:
 - administra memoria
 - administra programas
 - controla hardware
+
+---
+
+[Ir al concepto](./README.md)  
+[Ir al día 3](./day-3.md)
