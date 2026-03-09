@@ -85,6 +85,8 @@ Objetivo de la fase: Entender qué es programar, cómo funciona una computadora 
 
 Habilidades que debes dominar antes de Fase 2: uso básico de terminal, nociones de Internet/HTTP, capacidad de organizar archivos y documentar.
 
+[Ir a ver la carpeta de la fase 1](./Phase01)
+
 ---
 
 ## FASE 2 
