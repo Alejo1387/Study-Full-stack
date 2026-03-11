@@ -19,4 +19,4 @@ Primero entenderás cómo pensar como programador.
 - [Dia 4](./day-4.md)
 - [Dia 5](./day-5.md)
 - [Dia 6](./day-6.md)
-- [Dia 7](./day-7.md)
+- [Dia 7](./day-7/day-7.md)
