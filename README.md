@@ -31,11 +31,15 @@ Duración total estimada: ≈18 meses (≈78 semanas) estudiando 1 hora al día 
 
 ## FASE 1 
 
+[Ir a ver la carpeta de la fase 1](./Phase01)
+
 ### Fundamentos de computación y programación (Semanas 1–6) — 6 semanas
 
 Objetivo de la fase: Entender qué es programar, cómo funciona una computadora y los conceptos básicos que sostienen todo lo demás.
 
 #### Semana 1
+
+[Ir a ver la carpeta de la semana 1](./Phase01/Week01/README.md)
 
 - Qué es la programación — definición, paradigma imperativo vs declarativo.
 
@@ -45,6 +49,8 @@ Objetivo de la fase: Entender qué es programar, cómo funciona una computadora 
 
 #### Semana 2
 
+[Ir a ver la carpeta de la semana 2](./Phase01/Week02/README.md)
+
 - Sistema operativo y terminal — ¿qué es la terminal? conceptos: procesos, archivos, permisos.
 
 - Introducción a Linux básico (navegar carpetas, comandos ls, cd, cat, mkdir, rm, cp, mv).
@@ -52,6 +58,8 @@ Objetivo de la fase: Entender qué es programar, cómo funciona una computadora 
 - Ejercicio práctico: en tu sistema (o una VM/WSL) crea una carpeta aprendizaje y practica comandos; toma nota de 10 comandos usados.
 
 #### Semana 3
+
+[Ir a ver la carpeta de la semana 3](./Phase01/Week03/README.md)
 
 - ¿Cómo funciona Internet? TCP/IP, modelos OSI simplificado.
 
@@ -61,6 +69,8 @@ Objetivo de la fase: Entender qué es programar, cómo funciona una computadora 
 
 #### Semana 4
 
+[Ir a ver la carpeta de la semana 4](./Phase01/Week04/README.md)
+
 - HTTP/HTTPS — requests/responses, métodos (GET, POST, PUT, DELETE), códigos de estado.
 
 - Cliente vs servidor; qué es una API.
@@ -68,6 +78,8 @@ Objetivo de la fase: Entender qué es programar, cómo funciona una computadora 
 - Ejercicio práctico: usa el navegador y las herramientas de devtools (Network) para inspeccionar una petición GET y POST en una página simple.
 
 #### Semana 5
+
+[Ir a ver la carpeta de la semana 5](./Phase01/Week05/README.md)
 
 - Estructura de un proyecto de software a alto nivel — - archivos, dependencias, versiones.
 
@@ -77,6 +89,8 @@ Objetivo de la fase: Entender qué es programar, cómo funciona una computadora 
 
 #### Semana 6
 
+[Ir a ver la carpeta de la semana 6](./Phase01/Week06/README.md)
+
 - Buenas prácticas iniciales: organizar carpetas, nombrado, documentación mínima (README).
 
 - Mini-proyecto: escribe un documento README.md que explique quién eres, qué quieres aprender y un plan semanal para el próximo mes. Sube el README a una carpeta local.
@@ -84,8 +98,6 @@ Objetivo de la fase: Entender qué es programar, cómo funciona una computadora 
 ---
 
 Habilidades que debes dominar antes de Fase 2: uso básico de terminal, nociones de Internet/HTTP, capacidad de organizar archivos y documentar.
-
-[Ir a ver la carpeta de la fase 1](./Phase01)
 
 ---
 
