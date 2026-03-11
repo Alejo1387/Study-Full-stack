@@ -56,3 +56,8 @@ No necesitas saber su color favorito.
 ## 4. Algoritmos
 
 Crear pasos claros para resolver el problema.
+
+---
+
+[Ir al concepto](./README.md)  
+[Ir al día 7](./day-7/day-7.md)
