@@ -279,4 +279,4 @@ Si logras eso, el Día 1 está completado.
 ---
 
 [Ir al concepto](./README.md)  
-[Ir al día 2](./day-2.md)
+[Ir al día 2](./day-2/day-2.md)
