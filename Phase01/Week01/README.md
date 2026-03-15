@@ -14,7 +14,7 @@ No vamos a escribir código todavía.
 Primero entenderás cómo pensar como programador.
 
 - [Dia 1](./day-1.md)
-- [Dia 2](./day-2.md)
+- [Dia 2](./day-2/day-2.md)
 - [Dia 3](./day-3.md)
 - [Dia 4](./day-4.md)
 - [Dia 5](./day-5.md)
