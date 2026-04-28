@@ -60,5 +60,5 @@ En mi opinion seria desarrollar el algoritmo, ya que es algo que no habia hecho 
 
 ---
 
-**[Ir al concepto](./README.md)**  
+**[Ir al concepto](../README.md)**  
 **[Ir al dia 7](./day-7.md)**

@@ -128,5 +128,5 @@ y
 
 ---
 
-**[Ir al concepto](./README.md)**  
+**[Ir al concepto](../README.md)**  
 **[Ir a la solución del dia 7](./Solution-day-7.md)**
