@@ -57,3 +57,8 @@ Hasta el momento Creo que lo mas complicado fue saber los componentes del comput
 
 **¿Qué fue lo más interesante?**  
 En mi opinion seria desarrollar el algoritmo, ya que es algo que no habia hecho antes y me parecio interesante.
+
+---
+
+**[Ir al concepto](./README.md)**  
+**[Ir al dia 7](./day-7.md)**
