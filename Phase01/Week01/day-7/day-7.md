@@ -1,63 +1,127 @@
-# Día 7 — Mini proyecto de la semana
+# Día 7 — Mini Proyecto de la Semana
 
-Vamos a hacer tu primer documento de programador.
+Hoy vas a hacer algo muy importante.
 
-Crea un archivo:  
-fundamentos_programacion.md
+Vas a crear tu primer diseño de software como programador.
 
-Escribe:
+No vas a programar todavía.
 
----
-
-## 1. Qué es programación
-
-Explícalo con tus palabras.
+Vas a pensar como ingeniero.
 
 ---
 
-## 2. Cómo funciona una computadora
+## Mini Proyecto
 
-Explica:
-- RAM
-- Disco
-- Sistema operat
+Vas a diseñar una app llamada:  
+**HabitTracker**
 
----
+Una app para registrar hábitos.
 
-## 3. Qué es un algoritmo
-
-Da 2 ejemplos.
-
----
-
-## 4. Input Process Output
-
-Da 2 ejemplos.
+Ejemplos de hábitos:
+- leer
+- hacer ejercicio
+- estudiar
+- beber agua
+- orar
 
 ---
 
-## 5. Idea de programa que te gustaría crear
+## Parte 1 — Descripción del sistema
 
-Explícalo.
+Responde:  
+**¿Para qué sirve esta aplicación?**
 
----
+Ejemplo de idea:  
+La aplicación permite registrar hábitos diarios y hacer seguimiento del progreso.
 
-### Resultado esperado al final de la semana
-
-Debes poder explicar:
-
-✔ qué es programación  
-✔ qué es un algoritmo  
-✔ cómo funciona una computadora  
-✔ qué es input / process / output   
-✔ cómo dividir problemas  
-
-Esto es la base mental de todos los programadores.
+Escríbelo con tus palabras.
 
 ---
 
-[Mi solución](./fundamentos_programacion.md)
+## Parte 2 — Descomposición del sistema
+
+Divide la app en funcionalidades.
+
+Ejemplo:
+
+registro de usuario  
+login  
+crear hábito  
+editar hábito  
+eliminar hábito  
+marcar hábito completado  
+ver progreso
+
+Puedes agregar más.
 
 ---
 
-[Volver al índice](../README.md)
+## Parte 3 — Patrón de datos
+
+Define qué información tiene un hábito.
+
+Ejemplo:
+
+nombre
+descripcion
+fecha creacion
+dias objetivo
+estado
+
+Puedes agregar más.
+
+---
+
+## Parte 4 — Algoritmo
+
+Escribe el algoritmo cuando el usuario crea un hábito.
+
+Ejemplo:
+
+1. usuario escribe nombre del hábito
+2. usuario escribe descripción
+3. sistema guarda el hábito
+4. sistema muestra el hábito en la lista
+
+---
+
+## Parte 5 — Tipos de software
+
+Responde:
+
+1️⃣ ¿Qué tipo de software sería tu app?
+
+Sistema  
+Aplicación  
+Desarrollo
+
+---
+
+2️⃣ ¿Sobre qué sistema operativo podría correr?
+
+Ejemplo:
+
+Android  
+Windows  
+Ubuntu
+
+---
+
+3️⃣ ¿Qué software usarías para desarrollarla?
+
+Ejemplo:
+
+Visual Studio Code  
+Node.js
+
+---
+
+## Parte 6 — Reflexión
+
+Responde honestamente.
+
+**¿Qué fue lo más difícil de esta semana?**
+
+y
+
+**¿Qué fue lo más interesante?**
