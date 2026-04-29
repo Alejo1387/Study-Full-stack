@@ -129,4 +129,5 @@ y
 ---
 
 **[Ir al concepto](../README.md)**  
-**[Ir a la solución del dia 7](./Solution-day-7.md)**
+**[Ir a la solución del dia 7](./Solution-day-7.md)**  
+**[Ir a la Semana 2](../../Week02/README.md)**
